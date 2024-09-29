@@ -5,25 +5,25 @@ This is a Finance Manager project built using Python. It allows users to track a
 ### Features
 #### Track Income and Expenses:
 
-Easily add new transactions with the following fields: Date, Amount, Category, and Description.
-CSV Data Management:
+##### Easily add new transactions with the following fields: Date, Amount, Category, and Description.
+#### CSV Data Management:
 
 Store all your transaction data in a CSV file for easy access and editing.
 
 #### Data Visualization:
 
 Use Matplotlib to generate visualizations like bar charts and pie charts to see the distribution of your expenses and income over time.
-Flexible Category Management:
+#### Flexible Category Management:
 
 Add your own categories such as "Groceries", "Entertainment", "Income", "Salary", etc.
-Prerequisites
+### Prerequisites
 #### Make sure you have the following installed:
 
-Python 3.x
-Matplotlib: pip install matplotlib
-Pandas: pip install pandas (for handling CSV data)
+##### Python 3.x
+##### Matplotlib: pip install matplotlib
+##### Pandas: pip install pandas (for handling CSV data)
 
 ### Future Enhancements
-Adding a Graphical User Interface (GUI) for easier management.
-Ability to import/export data from different formats (e.g., JSON, Excel).
-Adding monthly/yearly summary reports.
+##### Adding a Graphical User Interface (GUI) for easier management.
+##### Ability to import/export data from different formats (e.g., JSON, Excel).
+##### Adding monthly/yearly summary reports.
